@@ -1,12 +1,12 @@
 ---
 title: Welcome to Frappe Docs
 ---
-[[PO-WO]]
-[[EO]]
-[[Urgent PO]]
-[[General Cash PC]]
-[[Project PC-Urgent Project PC]]
-[[Payment Request]]
-[[Quotation]]
-[[Invoice]]
-[[Other Notes]]
+- [[PO-WO]]
+- [[EO]]
+- [[Urgent PO]]
+- [[General Cash PC]]
+- [[Project PC-Urgent Project PC]]
+- [[Payment Request]]
+- [[Quotation]]
+- [[Invoice]]
+- [[Other Notes]]
