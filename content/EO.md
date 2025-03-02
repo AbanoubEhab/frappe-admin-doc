@@ -1,3 +1,9 @@
+---
+title: EO
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: EO
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/1vD16Jmse9exJYzXhY-OBuspwzRbbc2Xr6SDBXmcMpU0/edit?usp=sharing
@@ -7,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1vD16Jmse9exJYzXhY-OBuspwzRbbc2Xr6SDBXmcM
 - On Saving a code will check if Using a date in the Past in Payment Terms and will prevent the user from saving 
 ## **Workflow:**
 
-![EO.png](images/EO.png)
+![[EO.png]]
 
 ## **Permissions:**
 Read: R

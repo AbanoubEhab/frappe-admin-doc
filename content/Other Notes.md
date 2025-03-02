@@ -8,4 +8,4 @@ Entity Bank Account : Must have a Default bank account For every entity (Will be
 Employee : Must have Employees with cost Per day not = 0
 
 
-![Pasted_image_20241226171612.png](images/Pasted_image_20241226171612.png)
+![[Pasted_image_20241226171612.png]]

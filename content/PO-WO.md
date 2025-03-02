@@ -1,3 +1,9 @@
+---
+title: PO-WO
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: PO 
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/1ebg2LNu-rrh0DMWXZs0dG6W2WPWUHgko8yLzvOsX5gs/edit?usp=sharing
@@ -9,7 +15,7 @@ https://docs.google.com/spreadsheets/d/1ebg2LNu-rrh0DMWXZs0dG6W2WPWUHgko8yLzvOsX
 
 ### If General (allocation = General)
 
-![Pasted_image_20250203174147.png](images/Pasted_image_20250203174147.png)
+![[Pasted_image_20250203174147.png]]
 
 ### If Project (allocation = Project)
 

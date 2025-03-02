@@ -1,3 +1,9 @@
+---
+title: Urgent PO
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: Urgent PO
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/17tTDwYGQhtA-uiB5IQIA-oqsokfmrDkgcfR5ZsYErRI/edit?usp=sharing
@@ -7,7 +13,7 @@ https://docs.google.com/spreadsheets/d/17tTDwYGQhtA-uiB5IQIA-oqsokfmrDkgcfR5ZsYE
 - On Saving a code will check if Using a date in the Past in Payment Terms and will prevent the user from saving 
 ## **Workflow:**
 
-![[Pasted_image_20250210150515.png](images/Pasted_image_20250210150515.png)
+![[Pasted_image_20250210150515.png]]
 ## **Permissions:**
 Read: R
 Write: W

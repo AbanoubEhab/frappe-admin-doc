@@ -1,3 +1,9 @@
+---
+title: General Cash PC
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: General Cash PC
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/1w7vY3UZ3S9hHlbo8vrSMQMKayrErjYRe4uw1XU4KjQ4/edit?usp=sharing
@@ -5,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1w7vY3UZ3S9hHlbo8vrSMQMKayrErjYRe4uw1XU4K
 
 ## **Workflow:**
 
-![Pasted_image_20250212125946.png](images/Pasted_image_20250212125946.png)
+![[Pasted_image_20250212125946.png]]
 
 ## **Permissions:**
 Read: R

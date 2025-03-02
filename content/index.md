@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Frappe Docs
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[PO-WO]]
+[[EO]]
+[[Urgent PO]]
+[[General Cash PC]]
+[[Project PC-Urgent Project PC]]
+[[Payment Request]]
+[[Quotation]]
+[[Invoice]]
+[[Other Notes]]

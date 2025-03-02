@@ -1,3 +1,9 @@
+---
+title: Project PC-Urgent Project PC
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: Project PC 
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/1pM00cEx-GW7PGRssap46XCUBQy66IxYRPd6ozJhntYc/edit?usp=sharing
@@ -5,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1pM00cEx-GW7PGRssap46XCUBQy66IxYRPd6ozJhn
 
 ## **Workflow:**
 
-![Project_PC.png](images/Project_PC.png)
+![[Project_PC.png]]
 ## **Permissions:**
 Read: R
 Write: W

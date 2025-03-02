@@ -1,3 +1,9 @@
+---
+title: Sales Invoice
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: Sales Invoice
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/1kBmmoSOkUqpqTbHccBxBFrdUUDygoFPyATJZ_i12New/edit?usp=sharing
@@ -5,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1kBmmoSOkUqpqTbHccBxBFrdUUDygoFPyATJZ_i12
 
 ## **Workflow:**
 
-![invoice.png](images/invoice.png)
+![[invoice.png]]
 
 ## **Permissions:**
 Read: R

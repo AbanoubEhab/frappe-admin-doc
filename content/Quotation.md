@@ -1,3 +1,9 @@
+---
+title: Quotation
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: Quotation
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/154WG4gBfgombMvTukuCkQX2-_cDdue5LbgJ2CL3dwSs/edit?usp=sharing
@@ -5,7 +11,7 @@ https://docs.google.com/spreadsheets/d/154WG4gBfgombMvTukuCkQX2-_cDdue5LbgJ2CL3d
 
 ## **Workflow:**
 
-![Quotation.png](images/Quotation.png)
+![[Quotation.png]]
 
 ## **Permissions:**
 Read: R

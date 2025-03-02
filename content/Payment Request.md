@@ -1,3 +1,9 @@
+---
+title: Payment Request
+draft: false
+tags:
+  - Doctype
+---
 # Doctype: Payment Request
 ## **Fields:**
 https://docs.google.com/spreadsheets/d/1MVAfaseFVzGLnn7N5io5YbbdJUXydmNSw3A7Y8_0W8U/edit?usp=sharing
