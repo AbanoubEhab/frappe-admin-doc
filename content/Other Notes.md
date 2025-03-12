@@ -1,6 +1,6 @@
 ---
 title: Notes
-draft: false
+draft: true
 tags:
   - Doctype
 ---
