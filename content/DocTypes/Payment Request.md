@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/d/1MVAfaseFVzGLnn7N5io5YbbdJUXydmNSw3A7Y8_0
 
 ## **Workflow:**
 
-![[Pasted_image_20250216142207.png]]
+![[Payment_Request.png]]
 
 ## **Permissions:**
 - Read: R
