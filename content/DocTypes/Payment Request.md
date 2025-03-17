@@ -82,7 +82,8 @@ https://docs.google.com/spreadsheets/d/1MVAfaseFVzGLnn7N5io5YbbdJUXydmNSw3A7Y8_0
 ## Child tables:
 
 ### Payment Term:
-![Payment_Term_(Payment_Request)](Payment_Term_(Payment_Request).md)
+
+![[Payment_Term_(Payment_Request)]]
 
 
 # Other Notes
