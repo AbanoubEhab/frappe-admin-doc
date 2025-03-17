@@ -83,7 +83,7 @@ https://docs.google.com/spreadsheets/d/1MVAfaseFVzGLnn7N5io5YbbdJUXydmNSw3A7Y8_0
 
 ### Payment Term:
 
-![[Payment_Term_(Payment_Request)]]
+![[Payment Term (Payment Request)]]
 
 
 # Other Notes
