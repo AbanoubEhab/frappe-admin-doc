@@ -1,6 +1,6 @@
 ---
 title: Sales Invoice
-draft: false
+draft: true
 tags:
   - Doctype
 ---
