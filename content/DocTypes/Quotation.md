@@ -1,8 +1,9 @@
 ---
 title: Quotation
-draft: true
+draft: false
 tags:
   - Doctype
+  - Canceled
 ---
 # Doctype: Quotation
 ## **Fields:**

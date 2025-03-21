@@ -1,8 +1,9 @@
 ---
 title: Sales Invoice
-draft: true
+draft: false
 tags:
   - Doctype
+  - Canceled
 ---
 # Doctype: Sales Invoice
 ## **Fields:**
